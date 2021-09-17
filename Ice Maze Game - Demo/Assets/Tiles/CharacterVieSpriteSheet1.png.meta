@@ -1,0 +1,3208 @@
+fileFormatVersion: 2
+guid: ba42a8d21052fee4b88c1fe02f1e0914
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharacterVieSpriteSheet1_0
+    21300002: CharacterVieSpriteSheet1_1
+    21300004: CharacterVieSpriteSheet1_2
+    21300006: CharacterVieSpriteSheet1_3
+    21300008: CharacterVieSpriteSheet1_4
+    21300010: CharacterVieSpriteSheet1_5
+    21300012: CharacterVieSpriteSheet1_6
+    21300014: CharacterVieSpriteSheet1_7
+    21300016: CharacterVieSpriteSheet1_8
+    21300018: CharacterVieSpriteSheet1_9
+    21300020: CharacterVieSpriteSheet1_10
+    21300022: CharacterVieSpriteSheet1_11
+    21300024: CharacterVieSpriteSheet1_12
+    21300026: CharacterVieSpriteSheet1_13
+    21300028: CharacterVieSpriteSheet1_14
+    21300030: CharacterVieSpriteSheet1_15
+    21300032: CharacterVieSpriteSheet1_16
+    21300034: CharacterVieSpriteSheet1_17
+    21300036: CharacterVieSpriteSheet1_18
+    21300038: CharacterVieSpriteSheet1_19
+    21300040: CharacterVieSpriteSheet1_20
+    21300042: CharacterVieSpriteSheet1_21
+    21300044: CharacterVieSpriteSheet1_22
+    21300046: CharacterVieSpriteSheet1_23
+    21300048: CharacterVieSpriteSheet1_24
+    21300050: CharacterVieSpriteSheet1_25
+    21300052: CharacterVieSpriteSheet1_26
+    21300054: CharacterVieSpriteSheet1_27
+    21300056: CharacterVieSpriteSheet1_28
+    21300058: CharacterVieSpriteSheet1_29
+    21300060: CharacterVieSpriteSheet1_30
+    21300062: CharacterVieSpriteSheet1_31
+    21300064: CharacterVieSpriteSheet1_32
+    21300066: CharacterVieSpriteSheet1_33
+    21300068: CharacterVieSpriteSheet1_34
+    21300070: CharacterVieSpriteSheet1_35
+    21300072: CharacterVieSpriteSheet1_36
+    21300074: CharacterVieSpriteSheet1_37
+    21300076: CharacterVieSpriteSheet1_38
+    21300078: CharacterVieSpriteSheet1_39
+    21300080: CharacterVieSpriteSheet1_40
+    21300082: CharacterVieSpriteSheet1_41
+    21300084: CharacterVieSpriteSheet1_42
+    21300086: CharacterVieSpriteSheet1_43
+    21300088: CharacterVieSpriteSheet1_44
+    21300090: CharacterVieSpriteSheet1_45
+    21300092: CharacterVieSpriteSheet1_46
+    21300094: CharacterVieSpriteSheet1_47
+    21300096: CharacterVieSpriteSheet1_48
+    21300098: CharacterVieSpriteSheet1_49
+    21300100: CharacterVieSpriteSheet1_50
+    21300102: CharacterVieSpriteSheet1_51
+    21300104: CharacterVieSpriteSheet1_52
+    21300106: CharacterVieSpriteSheet1_53
+    21300108: CharacterVieSpriteSheet1_54
+    21300110: CharacterVieSpriteSheet1_55
+    21300112: CharacterVieSpriteSheet1_56
+    21300114: CharacterVieSpriteSheet1_57
+    21300116: CharacterVieSpriteSheet1_58
+    21300118: CharacterVieSpriteSheet1_59
+    21300120: CharacterVieSpriteSheet1_60
+    21300122: CharacterVieSpriteSheet1_61
+    21300124: CharacterVieSpriteSheet1_62
+    21300126: CharacterVieSpriteSheet1_63
+    21300128: CharacterVieSpriteSheet1_64
+    21300130: CharacterVieSpriteSheet1_65
+    21300132: CharacterVieSpriteSheet1_66
+    21300134: CharacterVieSpriteSheet1_67
+    21300136: CharacterVieSpriteSheet1_68
+    21300138: CharacterVieSpriteSheet1_69
+    21300140: CharacterVieSpriteSheet1_70
+    21300142: CharacterVieSpriteSheet1_71
+    21300144: CharacterVieSpriteSheet1_72
+    21300146: CharacterVieSpriteSheet1_73
+    21300148: CharacterVieSpriteSheet1_74
+    21300150: CharacterVieSpriteSheet1_75
+    21300152: CharacterVieSpriteSheet1_76
+    21300154: CharacterVieSpriteSheet1_77
+    21300156: CharacterVieSpriteSheet1_78
+    21300158: CharacterVieSpriteSheet1_79
+    21300160: CharacterVieSpriteSheet1_80
+    21300162: CharacterVieSpriteSheet1_81
+    21300164: CharacterVieSpriteSheet1_82
+    21300166: CharacterVieSpriteSheet1_83
+    21300168: CharacterVieSpriteSheet1_84
+    21300170: CharacterVieSpriteSheet1_85
+    21300172: CharacterVieSpriteSheet1_86
+    21300174: CharacterVieSpriteSheet1_87
+    21300176: CharacterVieSpriteSheet1_88
+    21300178: CharacterVieSpriteSheet1_89
+    21300180: CharacterVieSpriteSheet1_90
+    21300182: CharacterVieSpriteSheet1_91
+    21300184: CharacterVieSpriteSheet1_92
+    21300186: CharacterVieSpriteSheet1_93
+    21300188: CharacterVieSpriteSheet1_94
+    21300190: CharacterVieSpriteSheet1_95
+    21300192: CharacterVieSpriteSheet1_96
+    21300194: CharacterVieSpriteSheet1_97
+    21300196: CharacterVieSpriteSheet1_98
+    21300198: CharacterVieSpriteSheet1_99
+    21300200: CharacterVieSpriteSheet1_100
+    21300202: CharacterVieSpriteSheet1_101
+    21300204: CharacterVieSpriteSheet1_102
+    21300206: CharacterVieSpriteSheet1_103
+    21300208: CharacterVieSpriteSheet1_104
+    21300210: CharacterVieSpriteSheet1_105
+    21300212: CharacterVieSpriteSheet1_106
+    21300214: CharacterVieSpriteSheet1_107
+    21300216: CharacterVieSpriteSheet1_108
+    21300218: CharacterVieSpriteSheet1_109
+    21300220: CharacterVieSpriteSheet1_110
+    21300222: CharacterVieSpriteSheet1_111
+    21300224: CharacterVieSpriteSheet1_112
+    21300226: CharacterVieSpriteSheet1_113
+    21300228: CharacterVieSpriteSheet1_114
+    21300230: CharacterVieSpriteSheet1_115
+    21300232: CharacterVieSpriteSheet1_116
+    21300234: CharacterVieSpriteSheet1_117
+    21300236: CharacterVieSpriteSheet1_118
+    21300238: CharacterVieSpriteSheet1_119
+    21300240: CharacterVieSpriteSheet1_120
+    21300242: CharacterVieSpriteSheet1_121
+    21300244: CharacterVieSpriteSheet1_122
+    21300246: CharacterVieSpriteSheet1_123
+    21300248: CharacterVieSpriteSheet1_124
+    21300250: CharacterVieSpriteSheet1_125
+    21300252: CharacterVieSpriteSheet1_126
+    21300254: CharacterVieSpriteSheet1_127
+    21300256: CharacterVieSpriteSheet1_128
+    21300258: CharacterVieSpriteSheet1_129
+    21300260: CharacterVieSpriteSheet1_130
+    21300262: CharacterVieSpriteSheet1_131
+    21300264: CharacterVieSpriteSheet1_132
+    21300266: CharacterVieSpriteSheet1_133
+    21300268: CharacterVieSpriteSheet1_134
+    21300270: CharacterVieSpriteSheet1_135
+    21300272: CharacterVieSpriteSheet1_136
+    21300274: CharacterVieSpriteSheet1_137
+    21300276: CharacterVieSpriteSheet1_138
+    21300278: CharacterVieSpriteSheet1_139
+    21300280: CharacterVieSpriteSheet1_140
+    21300282: CharacterVieSpriteSheet1_141
+    21300284: CharacterVieSpriteSheet1_142
+    21300286: CharacterVieSpriteSheet1_143
+    21300288: CharacterVieSpriteSheet1_144
+    21300290: CharacterVieSpriteSheet1_145
+    21300292: CharacterVieSpriteSheet1_146
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1279
+        width: 115
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6333e1ee6042d6488f552aa982140fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_1
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1279
+        width: 123
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f21bd2543d29d4a8f3bc0f4dd7af2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_2
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1279
+        width: 130
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6b50c331b2f8b4c88e70b6290d0cac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1279
+        width: 132
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee84ae0aa8886c499da471607f09015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 1279
+        width: 115
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d077e3ce4e3bd1641a5c1b422134a10b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 1279
+        width: 132
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e8bb5029eff649bc8c0803516471f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 3838
+        y: 1279
+        width: 131
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91505b29b22f2b349aa1df89748ce512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1022
+        width: 106
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06eaa15050b575458a73df5f449f511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1022
+        width: 117
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b2df4d7e6677f46b2ab14e263e9175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1022
+        width: 117
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eb32592f0d05e448ec00913b8631a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1022
+        width: 106
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897fd4d67fd4a474880433544f86bc39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_11
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1022
+        width: 123
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3149933ca0adbe74b88a3e7c1847b548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_12
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1022
+        width: 124
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3363b50aa6d8f894b91741169a4538bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_13
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1022
+        width: 115
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1528b214a39d348966a3cd0f52c305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1022
+        width: 132
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d52f3b51b6538a448ed3113064f206a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_15
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1022
+        width: 123
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a09fc1fb52aa64a8e4f74270604b1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_16
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1022
+        width: 131
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ee84dbeac1cc74faa18644d42b394f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_17
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1022
+        width: 124
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22ab04c524d06c46b163eb6a3902deb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_18
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1022
+        width: 132
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bdc453d0c6d1c46b3283da9407cc98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_19
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1022
+        width: 123
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff496ebad470634886a1b3e79ae9bb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_20
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1022
+        width: 123
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6041c958eece17479d8ba282b7721df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_21
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1022
+        width: 132
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84528f8ca99a26d4e9daf4e81eb9a30c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_22
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 1022
+        width: 132
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40152e45bec375a4b9231a74ab4e6c36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_23
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 1022
+        width: 123
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f4ff965f4ffd04397face99e9bca76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_24
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 1022
+        width: 115
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4d84e7dcc2c7346864f1de4d6e7e1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_25
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 1022
+        width: 115
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a43b3761da7444bb89847d8bd4eba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_26
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 1022
+        width: 123
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326c51c121bde024eac65e0d063034eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_27
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 1022
+        width: 123
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f33f776a430fe4b8a604bbff7cd8e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_28
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 1022
+        width: 132
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ce026dd48fad34996e63a3e704e57e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_29
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 1022
+        width: 132
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4893ff8ac7c0afd48a6e610a2f395c83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_30
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 1022
+        width: 123
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8992caf7066b945a779e581d593823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_31
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 1022
+        width: 123
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff102a9d1a253d4f800fe29c8ffa982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_32
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 1022
+        width: 132
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64094ba98c453a0469238254ef491ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_33
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 1022
+        width: 132
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645bc273dbad1564298bdd34294a545e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_34
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 1022
+        width: 124
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db2424173bdbf342831780ff728803d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 767
+        width: 106
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9946a286d2dd2e641838e3c269f07c7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 767
+        width: 109
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5450e3f1bd22b42bc311ad6e07a4e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_37
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 767
+        width: 108
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1863ede396f7cbe4ca25492c106e2b65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_38
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 767
+        width: 109
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f449e8dca9660764ea9bb85534cb69ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_39
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 767
+        width: 123
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a7c99bc0eb42444808e11d41049048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_40
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 767
+        width: 124
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399f117776c120049a49c8409eb99969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_41
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 767
+        width: 123
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba5ad9f814e4434ab8da310569268d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_42
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 767
+        width: 123
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe7cca4c479196479d92f91b0038cb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_43
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 767
+        width: 123
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd6caf21db88c54c89c4bc76e8765e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_44
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 767
+        width: 123
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1075954af1531a94fbb1600a3e14f0b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_45
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 767
+        width: 123
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f98e5eb45c27fb44a7d35124c5f9995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_46
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 767
+        width: 123
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece334f17340a854198e7ffe2b1d837b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_47
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 767
+        width: 126
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714ac071b9ba0944b973ca37d701d673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_48
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 767
+        width: 123
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab44c2391de6954408587d4426374ef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_49
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 767
+        width: 124
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de1b24c93959234489991e75f633b24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_50
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 767
+        width: 123
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72f65cd67696c64d96c7c25529eb65f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_51
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 767
+        width: 123
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003657758a7dd2849b1fa14f7b7e1b7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_52
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 767
+        width: 124
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afefaae0c84dbc48b8adbc6bcbc954d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_53
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 767
+        width: 123
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae955c66e55671c49b2e15f38dd7802a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_54
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 767
+        width: 124
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0340fc236dc8541b5ba3ec107b8011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_55
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 767
+        width: 123
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f8cdd5995436247b5cf9c5a77eb714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_56
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 767
+        width: 123
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49ede6cd27573445b63be30c82c731f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_57
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 767
+        width: 123
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708275ea0fa5aa24180f94974cf57322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_58
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 767
+        width: 123
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c676c453228e21347b5720549cce71d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_59
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 767
+        width: 123
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a211b2077bd182645a36e4c140ee1df7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_60
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 767
+        width: 123
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee03e1b7f45456742861a1a355c48adb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_61
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 767
+        width: 123
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab02a70da4e77e4cb27da2fe2b8042c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_62
+      rect:
+        serializedVersion: 2
+        x: 4231
+        y: 767
+        width: 121
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e6c9f4b5b1e634a93595e1440319d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 510
+        width: 109
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f885c0e583106646ad688c7f4e808c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 510
+        width: 108
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae661ed2d82cf784c821039b0e7dfd2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_65
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 510
+        width: 109
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dde783d7c71ad4096ce69e614c3b4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_66
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 510
+        width: 106
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db39ce19355a15740ae769d26f2677f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_67
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 510
+        width: 124
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4345fc02583494fac05febbc29c153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_68
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 510
+        width: 123
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f40c8490a7f5b4dac48ef9e29453db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_69
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 510
+        width: 123
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ca2afbb3d2d0a41afd5bc4263d51ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_70
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 510
+        width: 123
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee59d81ea484cc428f9e70043c6d2f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_71
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 510
+        width: 123
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b91043efd41c90428dfe0cad7665868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_72
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 510
+        width: 123
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944ed9a3eb958ba49997b90ad9200651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_73
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 510
+        width: 123
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fc7fc29d2131f40a63c725e30e5206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_74
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 510
+        width: 123
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6292f08eae0db07439341a57b0018001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_75
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 510
+        width: 123
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f6d79b41c165499457328ef8ede23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_76
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 510
+        width: 124
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0c03d8855260646a45ceaeba3d9378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_77
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 510
+        width: 123
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb121269ea33254194f83fe6177af44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_78
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 510
+        width: 126
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45250c0bbe6955d45a88ffeebcad12a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_79
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 510
+        width: 124
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8583503f481a0c45b1ea48f2a4b6a81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_80
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 510
+        width: 123
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e0981ec30772d4abb44a0181b7cf4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_81
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 510
+        width: 124
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7945b330b26c3d54aaa9bea263c1956a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_82
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 510
+        width: 123
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7f131d54e5ffc4388b7374c4d8b983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_83
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 510
+        width: 123
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58d0b6a9e950cf4c85b97f46398675e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_84
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 510
+        width: 123
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5a229fcce719243b71e4077069ffac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_85
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 510
+        width: 123
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bd64feb08867d4ca892850c4262ec1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_86
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 510
+        width: 123
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ae4c983c926714a911318846373c04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_87
+      rect:
+        serializedVersion: 2
+        x: 3814
+        y: 510
+        width: 124
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56568e26c4b6144595120c19914ce12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_88
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 510
+        width: 124
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5734dfe78acddb042b1f1a617854215c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_89
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 510
+        width: 124
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7499901bc80d1c147b45a5723a230fb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_90
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 510
+        width: 124
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ff7abca7a840d4f850d81a1c9f6eda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_91
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 255
+        width: 115
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2ba688acc18cc469f85fc0f92c322f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_92
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 255
+        width: 117
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1ea131dc55a3845badc61c9e955de2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_93
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 255
+        width: 117
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f0c6679f84d374abe1fd2235e1cd6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_94
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 255
+        width: 115
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7adb6c51f83b242a7b988f0df39b3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_95
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 255
+        width: 123
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d2a53c48b6ab44c9fcea3743a34b4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_96
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 255
+        width: 124
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadc37b3865850f44b0c2aacc19ab08e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_97
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 255
+        width: 123
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1f3c3f66315ca48a9dc248ec5db577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_98
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 255
+        width: 123
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538bc31491aa7e845bc22cd935a3ab24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_99
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 255
+        width: 131
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7bd5eb4c355374f8012f43a0937007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_100
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 255
+        width: 131
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a1b0d716a92254585cbdd9b696c63a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_101
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 255
+        width: 131
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00abb0689304c8d4b9c1c7176582af45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_102
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 255
+        width: 131
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e063234d84589447aa4004bf05e13e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_103
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 255
+        width: 132
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e414860c7e6b6384b850a2b5029fa18b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_104
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 255
+        width: 132
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acae2180795791840845498355fddc69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_105
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 255
+        width: 132
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f222304921849c346a33f0368d152e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_106
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 255
+        width: 132
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc017ea9f76deb4684e9e77a5262ee1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_107
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 255
+        width: 115
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2463a43644d812c419ddc0b2f2e23a88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_108
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 255
+        width: 115
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9ae86e4d13f7346b1db61ca768b430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_109
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 255
+        width: 115
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa27e5ecb845d2f47a39b452a67f66ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_110
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 255
+        width: 117
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232ce8f1008fcfa48a9c41a42e5c890a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_111
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 255
+        width: 131
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4074b2498885c2f4ebec9e621ccedc80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_112
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 255
+        width: 131
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5064780e34ff6584f9de4d33268e4cd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_113
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 255
+        width: 131
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2622187ca66931459784cf6fc65a9e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_114
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 255
+        width: 131
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30024ae5fa339c3469d09a7bacb4b5da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_115
+      rect:
+        serializedVersion: 2
+        x: 3814
+        y: 255
+        width: 132
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef33b8345535c447adeb2172fb8f2dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_116
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 255
+        width: 132
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05c3b1b568b9bb459ac831ead1b83cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_117
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 255
+        width: 132
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12169981a38a0e341bf9b9abd420f5e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_118
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 255
+        width: 130
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b957c2d246499439bea666dd1fa35c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_119
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 115
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a31a612c4f49242b0ffa2153899c43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_120
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 117
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae12bff1069f954d84be5b0d1452e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_121
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 117
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a2ed2fd6ba599499bfecf38c16c8aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_122
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 115
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd92e18999f11ed4cbf21f6885576743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_123
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 123
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aee6449b165c6d418b533cb57353e1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_124
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 0
+        width: 124
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14d20db085525042bf8c7fac6ae27b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_125
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 123
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05677db973dadbc4ba95b89b36e1a24e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_126
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 0
+        width: 123
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9bbe6b4cb09b74daffbb7995b3bf40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_127
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 0
+        width: 131
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92202e4ba1dab34a9b0478a0e5309b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_128
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 0
+        width: 131
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ee9f52688882a469b117e05fa3801c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_129
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 0
+        width: 131
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59000e572d063984e94335dcab018d69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_130
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 0
+        width: 131
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c23081028fae21418d5538684f0524d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_131
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 131
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9883aafbd71cfab4d8995a946537a45a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_132
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 0
+        width: 132
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b31270109cbd6048902c5f3a1c99e19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_133
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 0
+        width: 132
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa7e3cf14707e2458769a4be9107c81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_134
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 0
+        width: 131
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0098e68111f1b4a850f81b5bebc458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_135
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 0
+        width: 115
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52450c59ce7bcca49b82541faa2e84b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_136
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 0
+        width: 115
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288a434000167504fb496048cb48e47d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_137
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 0
+        width: 115
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfd2fecef3fe474895652304e42c8a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_138
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 0
+        width: 117
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688808fa661c7c3428644fd1583c0945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_139
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 0
+        width: 131
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedd36ce450b6ea4faca9450e82bc16a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_140
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 0
+        width: 131
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5070e222e486144b35f94d8654c2c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_141
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 0
+        width: 131
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111f5fd9dfca94a4f8d5d13114fa60ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_142
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 0
+        width: 131
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160fc993989d72742afa71358d01d574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_143
+      rect:
+        serializedVersion: 2
+        x: 3814
+        y: 0
+        width: 132
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e2d35fc5601d3408ee5122b28f7177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_144
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 0
+        width: 132
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e0a7e76c5d33646ad66cac3509fe99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_145
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 0
+        width: 132
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c16b9b645b1d543bf426716d5e29b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterVieSpriteSheet1_146
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 0
+        width: 130
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3eed7d6bbfcfd449f29ec7ac9c412e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5f1f8b22baaae6c4bba135c25ef2dc00
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
